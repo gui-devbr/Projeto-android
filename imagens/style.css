@@ -60,8 +60,9 @@ header > p {
     color: white;
     font-size: 1.2em;
     text-shadow:2px 2px 0px black;
-    margin:10px;
+    padding-bottom:15px;
 }
+header > p:hover {transform: translateX(4px);}
 
 /* Conteúdo principal */
 main {
